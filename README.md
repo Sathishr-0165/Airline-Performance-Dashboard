@@ -60,7 +60,7 @@ On-Time Status, Delay Reason
 
 How to Use
 Clone this repository:
-git clone https://github.com/<your-username>/Airline-Analytics-Dashboard.git
+git clone https://github.com/Sathishr-0165/Airline-Performance-Dashboard
 Open the project in Power BI (.pbix) or Tableau (.twb / .twbx).
 Connect to the dataset (Airline_Data.xlsx or .csv).
 Refresh the visuals and explore interactive insights.
