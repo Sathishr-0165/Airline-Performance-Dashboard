@@ -1,18 +1,19 @@
-Interactive Global Airline Performance Dashboard
+# Interactive Global Airline Performance Dashboard
 
-Overview
+Overview:
 This project presents an interactive data analytics dashboard developed using Power BI and Tableau, showcasing insights from airline booking data.
 The dashboard helps analyze passenger trends, revenue distribution, booking patterns, and flight performance for data-driven decision-making.
 
-Tools Used
+Tools Used:
 Tool	Purpose
 Power BI	Data cleaning, modeling, and visualization
 Tableau	Advanced interactive dashboards and storytelling
 Microsoft Excel / CSV	Data source (1,500+ airline booking records)
-Power BI Dashboard
-Key Features
 
+1.Power BI Dashboard
+Key Features:
 KPI Cards: Total Bookings, Total Revenue, Average Ticket Price, On-Time %.
+
 Charts:
 Total Revenue by Airline
 Bookings by City & Class
@@ -29,19 +30,20 @@ City-Wise Revenue Distribution
 Gender and Class Breakdown
 Common Delay Analysis
 
-Tableau Dashboard
-Key Features
+2.Tableau Dashboard
+
+Key Features:
 Interactive Dashboard with Filters: Airline, Class, and Month slicers synced across pages.
+
 Charts Included:
 Revenue by Class
 Revenue by City
 Monthly Revenue Trend
 Total Bookings by Gender & Nationality
 Delay Reason Breakdown
+
 Airline Comparison Chart
-
 Gauge Visuals: On-Time Performance
-
 Design Style: Light blue-gray background with navy headers and gradient highlights.
 
 Insights Delivered
@@ -49,7 +51,7 @@ Identified top-performing routes and cities.
 Revealed booking trends by month and passenger demographics.
 Analyzed operational delays and their root causes.
 
-Dataset Information
+Dataset Information:
 Records: 1,500+ airline bookings
 
 Fields:
@@ -58,7 +60,7 @@ Booking Date, Departure Date/Time, Arrival Date/Time
 Ticket Price, Class, Airline Name, Route
 On-Time Status, Delay Reason
 
-How to Use
+How to Use:
 Clone this repository:
 git clone https://github.com/Sathishr-0165/Airline-Performance-Dashboard
 Open the project in Power BI (.pbix) or Tableau (.twb / .twbx).
